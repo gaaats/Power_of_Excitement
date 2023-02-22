@@ -1,0 +1,25 @@
+package com.ids.little.farm.time.fu.gtjigtjiotgjitg
+
+object HIUHFhrrfhfrhufr {
+    var gtitghugt: String = "link"
+    var nhyjiohyiohy5: String = "apps"
+    var gtntgngtnjgtnj: String? = "main_id"
+    val rjgtjogtjjgtjtgjjgt = "tdb2"
+    val gtgthtghgthugt: String = "country"
+    val codeCodegtgt: String = "uff"
+    val onegtgt = "deviceID="
+    val vbfbbrfgfrggrffr = "sub_id_1="
+    val vfbhbfryurfgrfrf = "ad_id="
+    val gthgthugtuugthugt = "sub_id_4="
+    val vbfbfrrfhrfhfrhfrfr = "sub_id_5="
+    val ghyhy9555 = "sub_id_6="
+    val gthyhjyhyjuuj = "naming"
+    val trolologttggt = "deeporg"
+    const val vfbrfgfrgrfgrfgyrfgy = "1c273fd0-2ff3-4a37-b05a-6cd3fb1a1c8c"
+    val bngjgtitghgtg = "02664319471681519942"
+    val bnyojijhyjjhyhy = "com.ids.little.farm.time.fu"
+    val gtjjgtjgtjgtjt = "Fdv6XEqnp7dirBF9wVZWLm"
+    val bgngtjgtjgtjigt: String = "myID"
+    var instIdgttg: String? = "instID"
+    var bngjgthgthtghgt: String = "link"
+}

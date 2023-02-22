@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Power of Excitement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">1095930945142266</string>
+    <string name="facebook_client_token">1f71694cae377308f91990c02cb1f267</string>
+</resources>

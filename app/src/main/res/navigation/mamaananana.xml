@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mamaananana"
+    app:startDestination="@id/firrriritititistFragment">
+
+    <fragment
+        android:id="@+id/firrriritititistFragment"
+        android:name="com.ids.little.farm.time.fu.FirrriritititistFragment"
+        android:label="fragment_firrriritititist"
+        tools:layout="@layout/fragment_firrriritititist" >
+        <action
+            android:id="@+id/action_firrriritititistFragment_to_seeecococndddFragment"
+            app:destination="@id/seeecococndddFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/seeecococndddFragment"
+        android:name="com.ids.little.farm.time.fu.SeeecococndddFragment"
+        android:label="fragment_seeecococnddd"
+        tools:layout="@layout/fragment_seeecococnddd" >
+        <action
+            android:id="@+id/action_seeecococndddFragment_to_thiiirirddddFragment"
+            app:destination="@id/thiiirirddddFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/thiiirirddddFragment"
+        android:name="com.ids.little.farm.time.fu.ThiiirirddddFragment"
+        android:label="fragment_thiiirirdddd"
+        tools:layout="@layout/fragment_thiiirirdddd" >
+        <action
+            android:id="@+id/action_thiiirirddddFragment_to_foouururruurFragment"
+            app:destination="@id/foouururruurFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/foouururruurFragment"
+        android:name="com.ids.little.farm.time.fu.FoouururruurFragment"
+        android:label="fragment_foouururruur"
+        tools:layout="@layout/fragment_foouururruur" >
+        <action
+            android:id="@+id/action_foouururruurFragment_to_fiiivieieviveieiveFragment"
+            app:destination="@id/fiiivieieviveieiveFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fiiivieieviveieiveFragment"
+        android:name="com.ids.little.farm.time.fu.FiiivieieviveieiveFragment"
+        android:label="fragment_fiiivieieviveieive"
+        tools:layout="@layout/fragment_fiiivieieviveieive" />
+</navigation>
